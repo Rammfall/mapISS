@@ -1,0 +1,30 @@
+{
+  "name": "mapiss",
+  "version": "1.0.0",
+  "description": "Test task",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rammfall/mapISS.git"
+  },
+  "author": "Bohdan Onatsky",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rammfall/mapISS/issues"
+  },
+  "homepage": "https://github.com/rammfall/mapISS#readme",
+  "devDependencies": {
+    "browser-sync": "^2.24.1",
+    "del": "^3.0.0",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^5.0.0",
+    "gulp-cssmin": "^0.2.0",
+    "gulp-debug": "^4.0.0",
+    "gulp-htmlmin": "^4.0.0",
+    "gulp-sass": "^4.0.1",
+    "gulp-sourcemaps": "^2.6.4",
+  }
+}
